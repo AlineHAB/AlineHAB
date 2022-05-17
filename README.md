@@ -1,5 +1,4 @@
 - 👋 Olá, Eu sou @AlineHAB
-- 🌱 BootCamp Digital innovattion One.
 
 <div>
 
