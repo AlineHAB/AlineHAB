@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou Aline
+- 👋 Olá, Eu sou Aline.
 
 <div>
 
