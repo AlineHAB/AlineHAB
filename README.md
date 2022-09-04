@@ -1,5 +1,5 @@
 - 👋 Olá, Eu sou Aline.
-Estudante de Ciência da Computação e gosto bastante da área de desenvolvimento web, mas meu foco é em ciência de dados. 
+Estudante de Ciência da Computação, meu foco é em ciência de dados. 
 
 - aline20alves19@gmail.com
 
