@@ -1,5 +1,4 @@
 - 👋 Olá, Eu sou Aline.
-Estudante de Ciência da Computação. 
 
 - aline20alves19@gmail.com
 
